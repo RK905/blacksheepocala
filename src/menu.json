@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Burger A",
+     "section": "Burgers",
+    "price": "$9.99",
+    "description": "Our signature burger with all the fixings",
+    "photo": "https://www.tastingtable.com/img/gallery/steakburger-vs-hamburger-whats-the-biggest-difference/l-intro-1657643502.jpg"
+  },
+    {
+    "name": "Burger B",
+     "section": "Burgers",
+    "price": "$9.99",
+    "description": "Our signature burger with all the fixings",
+    "photo": "https://www.tastingtable.com/img/gallery/steakburger-vs-hamburger-whats-the-biggest-difference/l-intro-1657643502.jpg"
+  },
+      {
+    "name": "Burger C",
+     "section": "Burgers",
+    "price": "$9.99",
+    "description": "Our signature burger with all the fixings",
+    "photo": "https://www.tastingtable.com/img/gallery/steakburger-vs-hamburger-whats-the-biggest-difference/l-intro-1657643502.jpg"
+  },
+    {
+    "name": "Burger D",
+     "section": "Burgers",
+    "price": "$9.99",
+    "description": "Our signature burger with all the fixings",
+    "photo": "https://www.tastingtable.com/img/gallery/steakburger-vs-hamburger-whats-the-biggest-difference/l-intro-1657643502.jpg"
+  },
+    {
+    "name": "Burger E",
+     "section": "Burgers",
+    "price": "$9.99",
+    "description": "Our signature burger with all the fixings",
+    "photo": "https://www.tastingtable.com/img/gallery/steakburger-vs-hamburger-whats-the-biggest-difference/l-intro-1657643502.jpg"
+  },
+      {
+    "name": "Burger F",
+     "section": "Burgers",
+    "price": "$9.99",
+    "description": "Our signature burger with all the fixings",
+    "photo": "https://www.tastingtable.com/img/gallery/steakburger-vs-hamburger-whats-the-biggest-difference/l-intro-1657643502.jpg"
+  },
+  {
+    "name": "Pizza",
+      "section": "Pizzas",
+    "price": "$12.99",
+    "description": "A classic pizza with your choice of toppings",
+    "photo": "https://media.onebite.app/08/f8/67/e8/08f867e8-7f49-4797-b038-d69575c765c5.jpg"
+  },
+    {
+    "name": "Pizza",
+      "section": "Pizzas",
+    "price": "$12.99",
+    "description": "A classic pizza with your choice of toppings",
+    "photo": "https://media.onebite.app/08/f8/67/e8/08f867e8-7f49-4797-b038-d69575c765c5.jpg"
+  },
+    {
+    "name": "Pizza",
+      "section": "Pizzas",
+    "price": "$12.99",
+    "description": "A classic pizza with your choice of toppings",
+    "photo": "https://media.onebite.app/08/f8/67/e8/08f867e8-7f49-4797-b038-d69575c765c5.jpg"
+  },
+  {
+    "name": "Salad",
+      "section": "Salads",
+    "price": "$7.99",
+    "description": "A fresh and healthy salad with your choice of dressing",
+    "photo": "https://media-cdn.tripadvisor.com/media/photo-s/07/88/4e/76/strawberry-salad-dynamite.jpg"
+  }
+]
